@@ -1,5 +1,7 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
+
 ## NAME: Karthik Padmanaban R
+## Date: 6/8/2026
 ## Register Number: 212224110029
 
 ## AIM :
